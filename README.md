@@ -1,5 +1,5 @@
 # ESP12-AM2320BMP180
-constructed based on :  https://github.com/Kang-Jack/ESP8266_Reinforcement
+Web server construction based on : https://github.com/Kang-Jack/ESP8266_Reinforcement
 
 AP/Station mode avalible.
 
