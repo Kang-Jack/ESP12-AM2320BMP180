@@ -7,4 +7,4 @@ AM2320 : Temperature and humidity
 
 BMP : Temperature and atmospheric pressure
 
-![image](https://github.com/Kang-Jack/ESP12-AM2320BMP180/tree/master/foto/front.png)
+![image](https://github.com/Kang-Jack/ESP12-AM2320BMP180/raw/master/foto/front.png)
